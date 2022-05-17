@@ -1,4 +1,6 @@
 # Exercício Herança - Polimorfismo - Java
+![GitHub language count](https://img.shields.io/github/languages/count/pedronb/Polimorfismo-Heran-a?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/pedronb/Polimorfismo-Heran-a?style=plastic)
 
 ## Enunciado:
 
