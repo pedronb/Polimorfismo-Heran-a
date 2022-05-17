@@ -5,7 +5,7 @@
 Uma loja que vende CD e DVDs deseja construir um cadastro com seus produtos. Para tanto, foi elaborado um diagrama
 de classes, conforme figura abaixo.
 
-![](C:\Pedro\Profissional\TI\Programa NeXT\NeXt\Aulas Java\Polimorfismo\imagem\diagrama_heranca.png)
+![](https://github.com/pedronb/Polimorfismo-Heran-a/blob/master/imagem/diagrama_heranca.png)
 
 A tabela abaixo fornece uma descrição dos métodos que deverão ser elaborados para cada uma das classes.
 
